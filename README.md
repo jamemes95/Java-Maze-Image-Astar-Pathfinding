@@ -17,7 +17,7 @@ Using Keesiemeijer's Maze Generator:
 I only changed columns and rows to 10 and kept everything else as the default values provided
     
 # Credits and Link for Resource Materials
-keesiemeijer.github.io/maze-generator -> Used the maze images generated here as basis for the pixel detection
-geeksforgeeks.org/a-search-algorithm -> Used the pseudocode provided as basis
-stackoverflow.com/questions/23104778/create-list-with-two-items-e-g-liststring-integer -> used StephaneM's answer to implement the ListItem.java
-tutorialspoint.com/how-to-get-pixels-rgb-values-of-an-image-using-java-opencv-library -> learned about RGB values for Java here
+1. keesiemeijer.github.io/maze-generator -> Used the maze images generated here as basis for the pixel detection
+2. geeksforgeeks.org/a-search-algorithm -> Used the pseudocode provided as basis
+3. stackoverflow.com/questions/23104778/create-list-with-two-items-e-g-liststring-integer -> used StephaneM's answer to implement the ListItem.java
+4. tutorialspoint.com/how-to-get-pixels-rgb-values-of-an-image-using-java-opencv-library -> learned about RGB values for Java here

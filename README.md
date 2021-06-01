@@ -1,7 +1,7 @@
 # Java-Maze-Image-Astar-Pathfinding
 Basic A* Pathfinding implementation in a Maze Image
 
-#Purpose of Project
+# Purpose of Project
 This is a project I did in my free time to see how I would implement A* pathfinding if given only a maze image
 
 # Instructions

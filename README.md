@@ -14,8 +14,7 @@ This is a project I did in my free time to see how I would implement A* pathfind
     -closedListIMG.png -> shows all the pixels reachable by the algorithm
     
 Using Keesiemeijer's Maze Generator:
--I only changed columns and rows to 10 and kept everything else as the default values provided
-![image](https://user-images.githubusercontent.com/82324090/120336022-8c004900-c324-11eb-830b-c2edea1ea2d6.png)
+I only changed columns and rows to 10 and kept everything else as the default values provided
     
 # Credits and Link for Resource Materials
 keesiemeijer.github.io/maze-generator -> Used the maze images generated here as basis for the pixel detection

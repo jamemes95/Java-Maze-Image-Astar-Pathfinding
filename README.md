@@ -21,3 +21,4 @@ I only changed columns and rows to 10 and kept everything else as the default va
 2. geeksforgeeks.org/a-search-algorithm -> Used the pseudocode provided as basis
 3. stackoverflow.com/questions/23104778/create-list-with-two-items-e-g-liststring-integer -> used StephaneM's answer to implement the ListItem.java
 4. tutorialspoint.com/how-to-get-pixels-rgb-values-of-an-image-using-java-opencv-library -> learned about RGB values for Java here
+5. stackoverflow.com/questions/12743748/find-elements-surrounding-an-element-in-an-array -> used Zvez's answer to get the valid surrounding points given a point
